@@ -2,9 +2,46 @@
 //  ChatViewController.swift
 //  MessageApp
 //
-//  Created by Vũ Quý Đạt  on 2/14/20.
+//  Created by Vũ Quý Đạt  on 12/2/20.
 //  Copyright © 2020 VU QUY DAT. All rights reserved.
 //
+
+
+/*
+
+
+
+ 
+ 
+//MARK: - Using websocket iOS custom by Vũ Quý Đạt
+ tham khảo:
+ // đường dẫn nội bộ
+ Source link: https://10.2.64.13:22222/gitlab.com/websocketIOS/
+ Source link: https://10.2.64.13:22222/gitlab.com/vudat81299/mapkit_custom_core_ios/
+ Source link: https://10.2.64.13:22222/gitlab.com/vudat81299/mapkit_custom_core_android/
+ Source link: https://10.2.64.13:22222/gitlab.com/vudat81299/webservice/
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+*/
+
+
+
 
 import UIKit
 var isInChatView = true

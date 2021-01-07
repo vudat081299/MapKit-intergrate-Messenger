@@ -8,12 +8,13 @@
 /*
 
 
-// ghi chú hết vào đây nhé: ngày nhận trăm tin nhắn telegram trôi đi ko tìm được đâu.
+ 
+//MARK: - ghi chú hết vào đây nhé: ngày nhận trăm tin nhắn telegram trôi đi ko tìm được đâu.
 // ok
 
 
 
-// kéo it UI thôi, tạo ui bằng code cho t nhé, mấy cái view kéo kéo kia dùng collectionview đi, kéo tay sửa mệt vc, project trên trường ĐH đấy.
+//MARK: - kéo it UI thôi, tạo ui bằng code cho t nhé, mấy cái view kéo kéo kia dùng collectionview đi, kéo tay sửa mệt vc, project trên trường ĐH đấy.
 // đm bạn làm hộ mình AWS IoT đi đấy
 // tài khoản?
  
